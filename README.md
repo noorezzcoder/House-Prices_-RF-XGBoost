@@ -1,6 +1,6 @@
 # House-Prices using RF(random forest and XGBoost
 # Housing Price Prediction   This project focuses on predicting housing prices using machine learning techniques, specifically Random Forest and XGBoost. The goal is to develop models that accurately forecast house prices based on various features, such as square footage, number of rooms, location, and more. 
-This project is associated with the Kaggle competition [link_to_competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code)).
+This project is associated with the Kaggle competition [(https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code])).
 Usage
 
 1. **Install Dependencies:**
